@@ -9,9 +9,9 @@
 		"qq": "",
 		"qqGroup": "147715512",
 		"qqGroupKey": "JmCQm5bb3okRTF3XHl_yyWQCwfcIKkfJ",
-		"qqQrUrl": "https://gitee.com/goweii/WanAndroidServer/raw/master/img/qq_qrcode.png",
-		"wechatQrUrl": "https://gitee.com/goweii/WanAndroidServer/raw/master/img/wx_qrcode.png",
-		"alipayQrUrl": "https://gitee.com/goweii/WanAndroidServer/raw/master/img/zfb_qrcode.png"
+		"qqQrUrl": "https://cdn.jsdelivr.net/gh/Ryan7L/DroidLabServer@main/img/qq_qrcode.png",
+		"wechatQrUrl": "https://cdn.jsdelivr.net/gh/Ryan7L/DroidLabServer@main/img/wx_qrcode.png",
+		"alipayQrUrl": "https://cdn.jsdelivr.net/gh/Ryan7L/DroidLabServer@main/img/zfb_qrcode.png"
 	},
 	"msg": ""
 }

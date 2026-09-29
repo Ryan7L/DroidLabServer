@@ -4,13 +4,13 @@
 		"banners": [
 			{
 				"title": "",
-				"imageUrl": "https://gitee.com/goweii/WanAndroidServer/raw/master/img/banner.jpg",
+				"imageUrl": "https://cdn.jsdelivr.net/gh/Ryan7L/DroidLabServer@main/img/banner.jpg",
 				"route": "wana://www.wanandroid.com/mine/about_me?second_floor=true"
 			}
 		],
 		"articleFooter": {
 			"title": "😊请我喝杯咖啡吧☕️",
-			"imageUrl": "https://gitee.com/goweii/WanAndroidServer/raw/master/img/banner.jpg",
+			"imageUrl": "https://cdn.jsdelivr.net/gh/Ryan7L/DroidLabServer@main/img/banner.jpg",
 			"route": "wana://www.wanandroid.com/mine/about_me?second_floor=true"
 		}
 	},

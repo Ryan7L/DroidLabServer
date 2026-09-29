@@ -5,7 +5,7 @@
 		"showDateRanges": ["202601290000-202603032359"],
 		"durationMs": 10000,
 		"route": "wana://www.wanandroid.com/mine/about_me",
-		"imageUrl": "https://gitee.com/goweii/WanAndroidServer/raw/master/img/buy_me_a_coffee.jpg"
+		"imageUrl": "https://cdn.jsdelivr.net/gh/Ryan7L/DroidLabServer@main/img/buy_me_a_coffee.jpg"
 	},
 	"msg": ""
 }
