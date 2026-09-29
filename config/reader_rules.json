@@ -1,0 +1,33 @@
+{
+	"code": 0,
+	"data": [
+		{
+			"platform": "csdn",
+			"domain": "csdn.net",
+			"urlRegex": "https://.*blog.csdn.net/.*article/details/.*"
+		},
+		{
+			"platform": "jianshu",
+			"domain": "jianshu.com",
+			"urlRegex": "https://www.jianshu.com/p/.*"
+		},
+		{
+			"platform": "juejin",
+			"domain": "juejin.cn",
+			"urlRegex": "https://juejin.cn/post/.*"
+		},
+		{
+			"platform": "weixin",
+			"domain": "weixin123456789",
+			"urlRegex": "weixin123456789",
+			"altDomain": "mp.weixin.qq.com",
+			"altUrlRegex": "https://mp.weixin.qq.com/s/.*"
+		},
+		{
+			"platform": "zhihu",
+			"domain": "zhuanlan.zhihu.com",
+			"urlRegex": "https://zhuanlan.zhihu.com/p/.*"
+		}
+	],
+	"msg": ""
+}

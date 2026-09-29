@@ -1,0 +1,45 @@
+
+.rich_media_meta_list {
+	display: none !important;
+}
+
+.original_area_primary {
+	display: none !important;
+}
+
+.rich_media_tool {
+	display: none !important;
+}
+
+.rich_media_area_extra {
+	display: none !important;
+}
+
+#copyright_info {
+    display: none !important;
+}
+.page_bottom_area {
+    display: none !important;
+}
+.rich_media_area_primary sougou {
+    display: none !important;
+}
+.rich_media_area_extra_inner {
+    display: none !important;
+}
+.page_bottom_area {
+    display: none !important;
+}
+#content_bottom_area {
+    display: none !important;
+}
+#js_tags_preview_toast {
+    display: none !important;
+}
+
+.pages_skin_pc.pages_skin_pc.mm_appmsg .rich_media_area_extra {
+    display: none !important;
+}
+.related_container {
+    display: none !important;
+}

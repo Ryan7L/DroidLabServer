@@ -1,0 +1,12 @@
+{
+	"code": 0,
+	"data": {
+		"homeTitle": null,
+		"toolbarBgColor": "",
+		"toolbarBgUrl": "",
+		"secondFloorBgUrl": "",
+		"secondFloorBgBlur": 0.05,
+		"enableDateRanges": ["202602110000-202603032359"]
+	},
+	"msg": ""
+}

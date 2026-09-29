@@ -1,0 +1,74 @@
+body #main {
+    padding-top: 0px !important;
+    margin-top: 0px !important;
+}
+
+.article_content {
+	max-height: none !important;
+	overflow: unset !important
+}
+
+#csdn-toolbar {
+	display: none !important;
+}
+
+.creat-time {
+	display: none !important;
+}
+
+.identity-icon {
+	display: none !important;
+}       
+
+.feed-Sign-span {
+    display: none !important;
+}
+
+.follow {
+	display: none !important;
+}
+
+.top_user_mod.clearfix {
+	display: none !important;
+	border-bottom-width: 0px !important;
+}
+
+.aside-header-fixed {
+	display: none !important;
+}
+
+.readall_box {
+	display: none !important;
+}
+
+.btn_open_app_prompt_div {
+	display: none !important;
+}
+
+.spec_space {
+	display: none !important;
+}
+
+.postTime {
+	display: none !important;
+}
+
+.article-copyright {
+	display: none !important;
+}
+
+#comment {
+	display: none !important;
+}
+
+#first_recommend_list {
+	display: none !important;
+}
+
+#recommend {
+	display: none !important;
+}
+
+#operate {
+	display: none !important;
+}

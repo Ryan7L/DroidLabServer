@@ -1,0 +1,15 @@
+{
+	"code": 0,
+	"data": {
+		"downloadUrl": "https://wanandroid.com/blogimgs/336d7db9-88b1-45e0-a18f-0531a61690ca.apk",
+		"backupUrl": "https://github.com/goweii/WanAndroid/releases/download/2.3.6/com.cuizhen.wanandroid-2.3.6-92-release.apk",
+		"versionName": "2.3.6",
+		"versionCode": 92,
+		"lastForcedName": "2.3.6",
+		"lastForcedCode": 92,
+		"forceUpdate": false,
+		"description": "1. 修复部分网页无法加载问题",
+		"releaseDate": "2026-04-18"
+	},
+	"msg": ""
+}

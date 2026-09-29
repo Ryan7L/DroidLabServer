@@ -1,0 +1,15 @@
+{
+	"code": 0,
+	"data": {
+		"downloadUrl": "http://123.56.122.132:1337/uploads/com.goweii.wanandroid-2.0.10-beta1-62-release_217ee8c72d.apk",
+		"backupUrl": "",
+		"versionName": "2.0.10-beta1",
+		"versionCode": 62,
+		"lastForcedName": "2.0.6",
+		"lastForcedCode": 58,
+		"forceUpdate": false,
+		"description": "1.【新增】支持生物认证登录，重新登录都开启",
+		"releaseDate": "2021-03-30"
+	},
+	"msg": ""
+}

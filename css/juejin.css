@@ -1,0 +1,105 @@
+.view.column-view {
+    margin-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+.main-container>.view {
+    margin-top: 0 !important;
+}
+
+.main-header-box {
+	display: none !important;
+}
+
+.author-info-block {
+	display: none !important;
+}
+
+.follow-button.follow {
+	display: none !important;
+}
+
+.article-title {
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+.article-hero {
+	display: none !important;
+}
+
+.open-in-app.open-in-app {
+	display: none !important;
+}
+
+.open-button.app-open-button {
+	display: none !important;
+}
+
+.action-box.action-bar {
+	display: none !important;
+}
+
+.tag-list-box {
+	display: none !important;
+}
+
+.footer-author-block {
+	display: none !important;
+}
+
+.article-banner {
+	display: none !important;
+}
+
+.books-recommend.books-recommend-footer.book-box {
+	display: none !important;
+}
+
+.comment-list-box {
+	display: none !important;
+}
+
+.main-area.recommended-area.shadow {
+	display: none !important;
+}
+
+.wechat-banner.wechat-banner {
+	display: none !important;
+}
+
+.column-container {
+    display: none !important;
+}
+
+.bottom-login-guide {
+    display: none !important;
+}
+.article-end {
+    display: none !important;
+}
+
+#comment-box {
+    display: none !important;
+}
+.sidebar-block shadow {
+    display: none !important;
+}
+.main-area recommended-area entry-list-container shadow {
+    display: none !important;
+}
+.action-box-wrap.action-bar {
+    display: none !important;
+}
+.action-box-wrap action-bar {
+    display: none !important;
+}
+#sidebar-container {
+    display: none !important;
+}
+.article-suspended-panel dynamic-data-ready {
+    display: none !important;
+}
+
+.main-header.main-header {
+    display: none !important;
+}

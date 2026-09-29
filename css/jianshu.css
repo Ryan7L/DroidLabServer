@@ -1,0 +1,67 @@
+.header-wrap {
+	display: none !important;
+}
+
+.article-info {
+	display: none !important;
+}
+
+.close-collapse-btn {
+	display: none !important;
+}
+
+.collapse-tips {
+	display: none !important;
+}
+
+.call-app-btn {
+	display: none !important;
+}
+
+.app-open {
+	display: none !important;
+}
+
+.note-comment-above-ad-wrap {
+	display: none !important;
+}
+
+.copyright {
+	display: none !important;
+}
+
+.note-graceful-button {
+	display: none !important;
+}
+
+#free-reward-panel {
+	display: none !important;
+}
+
+#comment-main {
+	display: none !important;
+}
+
+#recommended-notes {
+	display: none !important;
+}
+
+#footer {
+	display: none !important;
+}
+
+.collapse-free-content {
+ 	height: 100% !important;
+}
+
+hr {
+    height: 0px !important;
+}
+
+#note-show .content .show-content-free .collapse-free-content:after {
+    height: 0px !important;
+}
+
+[aria-label="wph-ad"] {
+    display: none !important;
+}
